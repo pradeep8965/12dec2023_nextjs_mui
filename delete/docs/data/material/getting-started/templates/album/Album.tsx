@@ -62,7 +62,7 @@ export default function Album() {
               align="center"
               color="text.primary"
             >
-                   
+              The Nature      
             </Typography>
             <Typography variant="h5" align="center" color="text.secondary" paragraph>
               Something short and leading about the collection below—its contents,
